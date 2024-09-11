@@ -26,9 +26,9 @@ class  ContinuityActionModalAdvertisementSetGenerator: IAdvertisementSetGenerato
     // Reversed from here: https://github.com/Flipper-XFW/Xtreme-Apps/blob/52c1c0f690bc01257e6461aa1081cf7d0faa92cf/ble_spam/protocols/continuity.c#L178
 
     val _nearbyActions = mapOf(
-        "13" to "AppleTV AutoFill",
+        "13" to "Dont mine at night",
         "27" to "AppleTV Connecting...",
-        "20" to "Join This AppleTV?",
+        "20" to "Stop watching tik toks lol",
         "19" to "AppleTV Audio Sync",
         "1E" to "AppleTV Color Balance",
         "09" to "Setup New iPhone",
